@@ -1,0 +1,65 @@
+{
+  "farmer": [
+    {
+      "id": "1",
+      "name": "vikas",
+      "email": "vikas123@gmail.com",
+      "contactno": "57587868",
+      "city": "bhopal",
+      "userid": "vikki1234",
+      "password": "v1234",
+      "question": "adsadasdasdadadad",
+      "answer": "ZXzzczxczxcsczxc"
+    },
+    {
+      "id": "2",
+      "name": "naveen",
+      "email": "naveen@gmail.com",
+      "contactno": "98587868",
+      "city": "indore",
+      "userid": "naveen123",
+      "password": "n1234",
+      "question": "humare yaha pani ki kami hai",
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "name": "sumit",
+      "email": "sumit123@gmail.com",
+      "contactno": "84847868",
+      "city": "satna",
+      "userid": "sumit",
+      "password": "s1234",
+      "question": "kon si kitnashak dawa ka use karna chahiye",
+      "answer": ""
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "admin",
+      "adminid": "admin",
+      "password": "admin1234"
+    },
+    {
+      "id": "2",
+      "name": "Raj Sharma",
+      "adminid": "raj",
+      "password": "raj123"
+    },
+    {
+      "id": "3",
+      "name": "Anshul Mishra",
+      "adminid": "anshul",
+      "password": "admin123"
+    },
+    {
+      "id": "ed71",
+      "name": "adasdas",
+      "adminid": "a@gmail.com",
+      "password": "aaaaaaaaa",
+      "question": "",
+      "answer": ""
+    }
+  ]
+}
